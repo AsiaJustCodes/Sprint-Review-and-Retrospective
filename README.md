@@ -6,6 +6,7 @@ Interpreting a users needs and then implementing them into a program starts with
 
 
 **How do I approach developing programs? What agile processes do I hope to incorporate into my future development work?**
+
 When developing a program an agile approach emphasizes iterative developement. Where the product is built incrementally from the start of the project, rather than trying to deliver it all at once or near the end. Some of the agile processes to incorporate include. Sprint planning which outlines work to be performed during the sprint. Daily stand ups to coordinate activities and share challenges among the team. Sprint reviews to present the completed work to stakeholders and to gather feedback. Retrospectives so we can reflect on the past sprint and make continuous improvements. Lastly, is backlog refinement this helps keep the backlog relevant and populated with user stories that reflect current user needs. 
 
 
